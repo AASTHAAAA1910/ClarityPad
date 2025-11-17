@@ -54,7 +54,7 @@ export default function SideBar({
             onClick={() => setIsSidebarOpen(false)}
             className="md:hidden p-1 hover:bg-indigo-700 rounded text-white"
           >
-            <X className="w-5 h-5" />
+            <X className="w-6 h-5" />
           </button>
         </div>
         <div className="relative">
